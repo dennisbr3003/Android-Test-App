@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Daniël\'s App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="button_random_caption">Random</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello Daniël Brink</string>
+    <string name="random_heading">Here is a random number between 0 and %d</string>
+    <string name="Toast_Button_Caption">Toast</string>
+    <string name="button_count_caption">Count</string>
+    <string name="_Default_value_0">0</string>
+    <string name="FirstToastText">Hello Mac Daniël, you rock at Terraria mods!!</string>
+    <string name="textTitle">Popperdepop</string>
+    <string name="close">Close</string>
+    <string name="popup">Popup</string>
+    <string name="picture1">picture1</string>
+    <string name="exception">\"Unexpected value: \"</string>
+    <string name="RetrofitException">\"API call failed: \"</string>
+    <string name="PingButtonClicked">Ping button pressed</string>
+    <string name="PingButtonCaption">Ping</string>
+    <string name="RandomTextDesignValue">R</string>
+    <string name="ButtonTestCaption">Test</string>
+    <string name="ClickOnTestDetected">click detected on test button</string>
+    <string name="ClickOnPrevious">click detected on previous button</string>
+    <string name="ClickOnUsers">click detected on ping button</string>
+    <string name="GeneralException">\"Complete failure general exception. \"</string>
+    <string name="IOExcpetion">Complete failure IOException</string>
+    <string name="InterruptedException">Complete failure InterruptedException</string>
+    <string name="textViewTodoItemDefault">Click ping for todo list item</string>
+    <string name="JSONException">JSON call failed</string>
+    <string name="Unexpected">Unexpected result</string>
+    <string name="MappingException">unable to map object</string>
+    <string name="DebugTest">Test</string>
+</resources>
